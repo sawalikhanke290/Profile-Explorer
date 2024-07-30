@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "photo": "https://cdn.pixabay.com/photo/2023/04/02/18/21/man-7895205_960_720.jpg",
+      "description": "Software Engineer",
+      "address": "1600 Amphitheatre Parkway, Mountain View, CA",
+      "location": {
+        "lat": 37.42216,
+        "lng": -122.08427
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "photo": "https://cdn.pixabay.com/photo/2017/08/01/01/33/beanie-2562646_640.jpg",
+      "description": "Product Manager",
+      "address": "One Apple Park Way, Cupertino, CA",
+      "location": {
+        "lat": 37.3349,
+        "lng": -122.00902
+      }
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "photo": "https://cdn.pixabay.com/photo/2024/04/19/16/49/ai-generated-8706674_640.jpg",
+      "description": "UX Designer",
+      "address": "1601 Willow Road, Menlo Park, CA",
+      "location": {
+        "lat": 37.48485,
+        "lng": -122.14839
+      }
+    },
+    {
+      "id": 4,
+      "name": "Michael Brown",
+      "photo": "https://cdn.pixabay.com/photo/2016/11/23/00/57/adult-1851571_640.jpg",
+      "description": "Data Scientist",
+      "address": "345 Spear Street, San Francisco, CA",
+      "location": {
+        "lat": 37.78947,
+        "lng": -122.39161
+      }
+    },
+    {
+      "id": 5,
+      "name": "Emily Davis",
+      "photo": "https://cdn.pixabay.com/photo/2024/04/13/02/53/ai-generated-8693088_640.jpg",
+      "description": "Marketing Specialist",
+      "address": "2211 North First Street, San Jose, CA",
+      "location": {
+        "lat": 37.38747,
+        "lng": -121.96356
+      }
+    },
+    {
+      "id": 6,
+      "name": "David Wilson",
+      "photo": "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_640.jpg",
+      "description": "Project Manager",
+      "address": "500 Terry Francois Blvd, San Francisco, CA",
+      "location": {
+        "lat": 37.77064,
+        "lng": -122.3871
+      }
+    },
+    {
+      "id": 7,
+      "name": "Sophia Martinez",
+      "photo": "https://cdn.pixabay.com/photo/2024/07/25/03/31/ai-generated-8920141_1280.jpg",
+      "description": "Graphic Designer",
+      "address": "799 Market Street, San Francisco, CA",
+      "location": {
+        "lat": 37.7831,
+        "lng": -122.4073
+      }
+    },
+    {
+      "id": 8,
+      "name": "James Taylor",
+      "photo": "https://cdn.pixabay.com/photo/2016/06/20/04/30/asian-man-1468032_640.jpg",
+      "description": "Business Analyst",
+      "address": "950 Elm Street, Sunnyvale, CA",
+      "location": {
+        "lat": 37.37112,
+        "lng": -122.03732
+      }
+    },
+    {
+      "id": 9,
+      "name": "Isabella White",
+      "photo": "https://cdn.pixabay.com/photo/2024/05/29/07/51/ai-generated-8795619_1280.jpg",
+      "description": "Content Strategist",
+      "address": "1600 Main Street, Santa Clara, CA",
+      "location": {
+        "lat": 37.35411,
+        "lng": -121.95524
+      }
+    },
+    {
+      "id": 10,
+      "name": "Daniel Harris",
+      "photo": "https://cdn.pixabay.com/photo/2016/11/29/09/38/adult-1868750_1280.jpg",
+      "description": "SEO Specialist",
+      "address": "125 High Street, Palo Alto, CA",
+      "location": {
+        "lat": 37.44471,
+        "lng": -122.1607
+      }
+    },
+    {
+      "id": 11,
+      "name": "Olivia Thompson",
+      "photo": "https://cdn.pixabay.com/photo/2018/01/04/14/16/woman-3060784_640.jpg",
+      "description": "HR Manager",
+      "address": "2055 Gateway Place, San Jose, CA",
+      "location": {
+        "lat": 37.37533,
+        "lng": -121.92229
+      }
+    },
+    {
+      "id": 12,
+      "name": "Liam Anderson",
+      "photo": "https://cdn.pixabay.com/photo/2018/05/11/16/18/man-3390927_1280.jpg",
+      "description": "Network Engineer",
+      "address": "555 North Mathilda Avenue, Sunnyvale, CA",
+      "location": {
+        "lat": 37.40665,
+        "lng": -122.01466
+      }
+    }
+  ]
+  

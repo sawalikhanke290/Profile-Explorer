@@ -1,38 +1,79 @@
-.App {
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.profile-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.profile-card {
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 10px;
+  padding: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.2s;
+}
+
+.profile-card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.profile-photo {
+  width: 100%;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.details-link {
+  display: block;
+  margin-top: 10px;
+  color:blue;
+  text-decoration: none;
+  font-size: medium;
+}
+
+.details-link:hover {
+  text-decoration: underline;
+}
+
+.profile-details {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.back-link {
+  display: inline-block;
+  margin-top: 20px;
+  color: blue;
+  text-decoration: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.back-link:hover {
+  text-decoration: underline;
+}
+.profile{
+  color:#e95c20ff;
+  font-size: 3.5rem;
+  text-decoration: underline;
+}
+.description{
+  color:#006747ff;
+  font-size: 2rem;
+}
+.address{
+  color:#4f2c1dff;
+  font-size: 1.5rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h1{
+  color:#8b47b5;
+  font-size: 4rem;
+  text-decoration: underline;
 }
